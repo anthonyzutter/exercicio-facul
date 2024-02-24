@@ -1,6 +1,6 @@
 
 import java.util.Scanner;                                                                                
-public class Index {                                                                                     
+public class Exercicio {                                                                                     
     public static void main (String[]args) {                                                             
         Scanner menu = new Scanner(System.in);                                                             
         // 1
